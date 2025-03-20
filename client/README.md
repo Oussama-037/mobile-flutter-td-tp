@@ -12,4 +12,4 @@ Il interagit avec l'API backend pour envoyer et recevoir des données. Le client
 - Ajouter et récupérer Les produits
 - Ajouter et récupérer Les commandes
 
-Fait par : Moubadir Oussama 
+
